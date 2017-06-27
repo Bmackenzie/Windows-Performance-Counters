@@ -1,0 +1,6 @@
+C:\Users\bamacken\Documents\Visual Studio 2015\Projects\EA\perfCounterTest\perfCounterTest\bin\Debug\perfCounterTest.exe.config
+C:\Users\bamacken\Documents\Visual Studio 2015\Projects\EA\perfCounterTest\perfCounterTest\bin\Debug\perfCounterTest.exe
+C:\Users\bamacken\Documents\Visual Studio 2015\Projects\EA\perfCounterTest\perfCounterTest\bin\Debug\perfCounterTest.pdb
+C:\Users\bamacken\Documents\Visual Studio 2015\Projects\EA\perfCounterTest\perfCounterTest\obj\Debug\perfCounterTest.csprojResolveAssemblyReference.cache
+C:\Users\bamacken\Documents\Visual Studio 2015\Projects\EA\perfCounterTest\perfCounterTest\obj\Debug\perfCounterTest.exe
+C:\Users\bamacken\Documents\Visual Studio 2015\Projects\EA\perfCounterTest\perfCounterTest\obj\Debug\perfCounterTest.pdb
